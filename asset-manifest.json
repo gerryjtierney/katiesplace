@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/katiesplace/static/css/main.a17fc985.chunk.css",
+    "main.css": "/katiesplace/static/css/main.2dbb7a6d.chunk.css",
     "main.js": "/katiesplace/static/js/main.03bda5f9.chunk.js",
     "main.js.map": "/katiesplace/static/js/main.03bda5f9.chunk.js.map",
     "runtime-main.js": "/katiesplace/static/js/runtime-main.f1de6447.js",
@@ -8,16 +8,16 @@
     "static/js/2.a0cd05a9.chunk.js": "/katiesplace/static/js/2.a0cd05a9.chunk.js",
     "static/js/2.a0cd05a9.chunk.js.map": "/katiesplace/static/js/2.a0cd05a9.chunk.js.map",
     "index.html": "/katiesplace/index.html",
-    "precache-manifest.729d515bab6811be641ea2f5b4cb7f4b.js": "/katiesplace/precache-manifest.729d515bab6811be641ea2f5b4cb7f4b.js",
+    "precache-manifest.56409ae784d4f356264c694a798822b6.js": "/katiesplace/precache-manifest.56409ae784d4f356264c694a798822b6.js",
     "service-worker.js": "/katiesplace/service-worker.js",
-    "static/css/main.a17fc985.chunk.css.map": "/katiesplace/static/css/main.a17fc985.chunk.css.map",
+    "static/css/main.2dbb7a6d.chunk.css.map": "/katiesplace/static/css/main.2dbb7a6d.chunk.css.map",
     "static/js/2.a0cd05a9.chunk.js.LICENSE.txt": "/katiesplace/static/js/2.a0cd05a9.chunk.js.LICENSE.txt",
     "static/media/App.css": "/katiesplace/static/media/platter-2009590_1920.49e3145b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f1de6447.js",
     "static/js/2.a0cd05a9.chunk.js",
-    "static/css/main.a17fc985.chunk.css",
+    "static/css/main.2dbb7a6d.chunk.css",
     "static/js/main.03bda5f9.chunk.js"
   ]
 }
