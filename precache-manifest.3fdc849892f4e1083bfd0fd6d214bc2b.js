@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e7618f1132e0a0182ccd061b0b3a6c2",
+    "revision": "72b768d534003d83b1417abdbd96ab95",
     "url": "/katiesplace/index.html"
   },
   {
-    "revision": "c8fced5e4fa9ced33a1e",
-    "url": "/katiesplace/static/css/main.6ac2fe59.chunk.css"
+    "revision": "37e9fa7cba0a4eccb53e",
+    "url": "/katiesplace/static/css/main.3b4b30b0.chunk.css"
   },
   {
     "revision": "19f376cb5fdf3eb9e7dd",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/katiesplace/static/js/2.748bbd98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8fced5e4fa9ced33a1e",
-    "url": "/katiesplace/static/js/main.60a8d1f4.chunk.js"
+    "revision": "37e9fa7cba0a4eccb53e",
+    "url": "/katiesplace/static/js/main.ae755777.chunk.js"
   },
   {
     "revision": "183150f8bb3d93638522",
