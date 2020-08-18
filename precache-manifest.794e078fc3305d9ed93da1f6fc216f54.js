@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b6e566d3df850fb6719ed70fe290fa3",
+    "revision": "7e7618f1132e0a0182ccd061b0b3a6c2",
     "url": "/katiesplace/index.html"
   },
   {
-    "revision": "d72ff1160d7343aef5d2",
-    "url": "/katiesplace/static/css/main.a975c5ce.chunk.css"
+    "revision": "c8fced5e4fa9ced33a1e",
+    "url": "/katiesplace/static/css/main.6ac2fe59.chunk.css"
   },
   {
-    "revision": "1d4109ed5d82b4eee2d2",
-    "url": "/katiesplace/static/js/2.a0cd05a9.chunk.js"
+    "revision": "19f376cb5fdf3eb9e7dd",
+    "url": "/katiesplace/static/js/2.748bbd98.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/katiesplace/static/js/2.a0cd05a9.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/katiesplace/static/js/2.748bbd98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d72ff1160d7343aef5d2",
-    "url": "/katiesplace/static/js/main.fd45bede.chunk.js"
+    "revision": "c8fced5e4fa9ced33a1e",
+    "url": "/katiesplace/static/js/main.60a8d1f4.chunk.js"
   },
   {
     "revision": "183150f8bb3d93638522",
